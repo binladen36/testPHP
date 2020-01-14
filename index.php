@@ -9,7 +9,9 @@
 <body>
     <?php echo '<p> Hello world</p>'; ?>
     <img src="PT.jpg">
-    <a href="google.com">Click here</a>
-    <a href="profile.html">Click here</a>
+    <br>
+    <a href="https://www.google.com/">Click here to google</a>
+    <br>
+    <a href="profile.html">Click here to profile</a>
 </body>
 </html>
